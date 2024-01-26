@@ -1,0 +1,195 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ikigenda
+build_property.RootNamespace = Ikigenda
+build_property.ProjectDir = /home/morgan/Documentos/Ikigenda/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/morgan/Documentos/Ikigenda
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Historials/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGlzdG9yaWFscy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Historials/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGlzdG9yaWFscy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Historials/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGlzdG9yaWFscy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Historials/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGlzdG9yaWFscy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Historials/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSGlzdG9yaWFscy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Planins/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGxhbmlucy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Planins/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGxhbmlucy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Planins/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGxhbmlucy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Planins/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGxhbmlucy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Planins/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGxhbmlucy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Rols/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9scy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Rols/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9scy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Rols/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9scy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Rols/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9scy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Rols/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUm9scy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/TipoDocumentos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb0RvY3VtZW50b3MvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/TipoDocumentos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb0RvY3VtZW50b3MvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/TipoDocumentos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb0RvY3VtZW50b3MvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/TipoDocumentos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb0RvY3VtZW50b3MvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/TipoDocumentos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb0RvY3VtZW50b3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/TipoServicios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb1NlcnZpY2lvcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/TipoServicios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb1NlcnZpY2lvcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/TipoServicios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb1NlcnZpY2lvcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/TipoServicios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb1NlcnZpY2lvcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/TipoServicios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGlwb1NlcnZpY2lvcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXN1YXJpb3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/morgan/Documentos/Ikigenda/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ut2wa1tckt
